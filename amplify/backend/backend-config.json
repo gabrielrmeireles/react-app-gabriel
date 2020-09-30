@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "dockertestb69a6fe1": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
